@@ -4,9 +4,9 @@ if not mainKey then
 end
 
 local placeScripts = {
-    [11111111] = "MinerH.luau",
-    [22222222] = "7DTL.luau",
-    [33333333] = "UMT.luau",
+    [258258996] = "MinerH.luau",
+    [17474746614] = "7DTL.luau",
+    [18680867089] = "UMT.luau",
 }
 
 local GITHUB_BASE = "https://raw.githubusercontent.com/Unknowre/Devse-Hub/main/"
