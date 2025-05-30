@@ -1,6 +1,6 @@
 local scripts = {
     [9224601490] = "FRG.lua",
-    [1234567890] = "AnotherScript.lua",
+    [17493355683] = "FRG.lua",
     [9876543210] = "Something.lua",
 }
 
