@@ -4,6 +4,7 @@ local scripts = {
     [17493357698] = "FRG.lua",
     [76381016848158] = "FR.lua",
     [75794995434025] = "GAB.lua",
+    [75663528075786] = "DRAGON.lua",
 }
 
 local placeId = game.PlaceId
