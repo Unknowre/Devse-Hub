@@ -8,6 +8,7 @@ local scripts = {
     [75794995434025] = "GAB.lua",
     [75663528075786] = "DRAGON.lua",
     [73727760725654] = "STC.lua",
+    [126884695634066] = "GAG.lua",
 }
 
 local placeId = game.PlaceId
